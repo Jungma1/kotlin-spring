@@ -1,0 +1,3 @@
+[submodule "src/main/resources/config"]
+	path = src/main/resources/config
+	url = https://github.com/Jungma1/kotlin-spring-security
